@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ram Krishna / imRKM"
 title_separator          : "-"
 name                     : &name "Ram Krishna"
-description              : &description "personal description"
+description              : &description "personal webpage"
 url                      : https://rkmazumder.github.io/im.rkm/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://rkmazumder.github.io/im.rkm/"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ram Krishna Mazumder"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
+  employer         : "CWRU"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
