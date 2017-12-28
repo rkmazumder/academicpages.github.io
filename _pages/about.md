@@ -15,7 +15,7 @@ Cleveland, Ohio, USA
 &
 Assistant Professor (on leave)
 Institute of Earthquake Engineering Research
-Chittagong University of Engineering and Technology
+[Chittagong University of Engineering and Technology](http://www.cuet.ac.bd)
 Chittagong 4349, Bangladesh
 
 ## Higher Study Linkage
