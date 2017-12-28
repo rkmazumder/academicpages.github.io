@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Affiliation
-Graduate Research Assistant\
+PhD Candidate\
 Dept of Civil Engineering, Case Western Reserve Uni\
 Cleveland, Ohio, USA
 
