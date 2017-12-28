@@ -19,6 +19,6 @@ Chittagong University of Engineering and Technology\
 Chittagong 4349, Bangladesh
 
 ## Higher Study Linkage
-* President(acting), South Asian Chapter, Erasmus Mundus Association
+* President (acting), South Asian Chapter, Erasmus Mundus Association
 * Vice-President of South Asian Chapter (2015-17), Erasmus Mundus Association
 * Country Ambassador for Bangladesh (2013-15), Erasmus Mundus Association
