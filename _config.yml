@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : &name "Ram Krishna Mazumder"
+  name             : "RKM"
   avatar           : "profile.png"
   bio              : "left bio"
   location         : "Location"
