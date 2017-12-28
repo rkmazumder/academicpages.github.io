@@ -7,21 +7,21 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ram/Krishna"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Ram Krishna Mazumder"
-description              : &description "personal webpage"
-url                      : "https://rkmazumder.github.io/im.rkm/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://rkmazumder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://rkmazumder.github.io/im.rkm/"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. 
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "rk"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "rxm562@case.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krishna"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "left bio"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         : "Case Western Reserve University"
-  googlescholar    : "https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en"
-  email            : "rkmazumder@gmail.com
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rkmazumder"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/rkmazumder"
+  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/rkmazumder?lang=en"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -303,5 +303,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
