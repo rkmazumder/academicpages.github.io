@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Ram Krishna Mazumder"
   avatar           : "rk.png"
-  bio              : "rkm"
-  location         : "Cleveland"
-  employer         : "CWRU"
+  bio              : ""
+  location         : "Cleveland,Ohio"
+  employer         : "Case Western Reserve University"
   googlescholar    : "https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en"
   email            : "rxm562@case.edu"
   uri              :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/rkmazumder"
+  orcid            : " https://orcid.org/0000-0002-9589-4654"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/rkmazumder"
   vine             :
   weibo            :
   xing             :
