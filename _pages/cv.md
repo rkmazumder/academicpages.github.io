@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2014     Postgraduate Specialization in Geological & Climate Related Risk (University of Geneva, Switzerland)
+* 2012     Master in Evaluation Control and Reduction of Environmental Seismic Risk (University of Rome 'La Sapienza', Italy)
+* 2009    B.Sc in Civil and Environmental Engineering (Shahjalal University of Science and Technology, Bangladesh)
 
 Work experience
 ======
