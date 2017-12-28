@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ram / KRishna"
+title                    : "Ram Krishna/Home"
 title_separator          : "-"
-name                     : &name "Ram Krishna"
-description              : &description "personal description"
+name                     : &name "Ram Krishna Mazumder"
+description              : &description "personal webpage"
 url                      : https://rkmazumder.github.io/im.rkm/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://rkmazumder.github.io/im.rkm/"
@@ -21,7 +21,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : rk
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "rxm562@case.edu"
   generatedFields:
     date:
       type               : "date"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ram Krishna"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Case Western Reserve University"
+  googlescholar    : "https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en"
+  email            : "rkmazumder@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rkmazumder"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/rkmazumder?lang=en"
   vine             :
   weibo            :
   xing             :
