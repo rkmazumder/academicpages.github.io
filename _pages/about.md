@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Affiliation"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### Affiliation
 PhD Candidate\
 Dept of Civil Engineering, Case Western Reserve Uni\
 Cleveland, Ohio, USA
