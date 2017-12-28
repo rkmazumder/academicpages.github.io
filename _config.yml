@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to RKM!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "im / RKM"
+title                    : "im@RKM"
 title_separator          : "-"
-name                     : &name "Ram Krishna"
-description              : &description "personal webpage"
+name                     : &name "Ram Krishna Mazumder"
+description              : &description "personal webpage of asst prof. Ram Krishna Mazumder"
 url                      : https://rkmazumder.github.io/im.rkm/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://rkmazumder.github.io/im.rkm/"
